@@ -1,0 +1,6 @@
+nums1 = [ 12,-7,5,64,-14]
+print(nums1.pop(0),nums1.pop(1),nums1.pop(2))
+
+
+nums2 =[ 12,14,-95,3]
+print(nums1.pop(0),nums2.pop(0),nums2.pop())
